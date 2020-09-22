@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Roadtrip and National Park Tips and Tricks"
+title:  "Roadtrip and dispersed camping tips and tricks"
 date:   2020-09-22 11:00:00 -0500
 categories: roadtrip
+tags: roadtrip, camping
 ---
 
 I just finished a 6 week roadtrip that meandered from California, through Utah, Arizona, Oregon, Idaho, Wyoming, Montana, South Dakota, Minnesota, and finally, Wisconsin. Though I'm not going to talk about destinations in this post, but rather, tips and tricks to make the roadtrip just a little bit easier. 

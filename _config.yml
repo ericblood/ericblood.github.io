@@ -18,19 +18,37 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Random musings from Eric Blood
+title: Random musings and delightful curiosities 
 email: e.blood@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! I don't know what to put here yet but cool!
+  This is a outlet for random and delightful things that I want to share with the world, or just document. However, there is likely no theme or rhythm to my posts. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericblood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ericmblood
+
+minima:
+  date_format: "%b %-d, %Y"
+author: Eric Blood
+email: "e.blood@gmail.com"
 github_username:  ericblood
+twitter_username: ericmblood
+facebook_username: emblood
+linkedin_username: eric-blood
+#social_links:
+#  twitter: ericmblood
+#  github: ericblood
+#  facebook: emblood
+#  linkedin: eric-blood
+#google_analytics: 
+#timezone:
+
+show_excerpts: true
+permalink: /:categories/:title
 
 # Build settings
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
