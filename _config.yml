@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericblood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%B %-d, %Y"
 author: Eric Blood
 email: "e.blood@gmail.com"
 github_username:  ericblood
