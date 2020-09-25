@@ -24,7 +24,7 @@ Friends - It it less than 40 days until the end of the US Federal Election perio
 * Phone bank with [Florida Voter Protection](https://www.mobilize.us/flavopro/event/325455/)
 * Find other activities at [mobilize.us](https://mobilize.us)  
 
-**Be critical**  Disinformation campaigns on social media will be at an all-time high until November 3. Remeber that not everything you read or see on social media is true. 
+**Be critical**  Disinformation campaigns on social media will be at an all-time high until November 3. Remember that not everything you read or see on social media is true. 
 
 **Be emotionally prepared** Even though our part, as citizens, will be over on November 3, this election will likely get drawn out until 2021. This fight is not over until Biden is inaugurated as the 46th President of the United States on January 20, 2021. 
 
