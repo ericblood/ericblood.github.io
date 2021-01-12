@@ -4,5 +4,8 @@
 layout: home
 list_title: "Posts"
 ---
-Welcome! Enjoy a little insight into my random and crazy brain! 
+
+![This is the sign](/assets/sign.jpg)
+
+<!-- Welcome! Enjoy a little insight into my random and crazy brain! -->
 
